@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: 'Social App',
-    description: "Using React, Node.js, Express & MongoDB, I built a social media app which has features like attaching files, commenting on posts and profiles. This is still not completed fully yet so it isn't released publicly yet.",
+    description: "Using React, Node.js, Express & MongoDB, I built a social media app which has features like attaching files, commenting on posts and profiles. This is still not completed fully yet so it isn't released publicly.",
       image: '/images/2.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://youtu.be/dQw4w9WgXcQ',
-    visit: 'https://youtu.be/dQw4w9WgXcQ',
+    source: '#',
+    visit: '#',
     id: 3,
   },
   {
@@ -13,7 +13,7 @@ export const projects = [
     description:"My first major application called SogeCord. This is a chat application which has rooms and multiple users can communicate with each other. This is a very basic chat application so there aren't really that much features and it is released publicy",
     image: '/images/1.png',
     tags: ['JavaScript', 'Socket.io'],
-    source: 'https://youtu.be/dQw4w9WgXcQ',
+    source: '#',
     visit: 'https://sogecord-2.herokuapp.com',
     id: 2,
   },

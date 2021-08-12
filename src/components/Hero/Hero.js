@@ -13,9 +13,9 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          Hey there! I am Hendsom Doge. My projects may seem cool and stuff but they are pretty simple to make (not for me though). If you think that I am good at coding, then you're very much mistaken, I am just a hobbyist who likes coding and I am still in the beginner stage
+          Hey there! I am Hendsom Doge. My projects may seem cool but they are pretty simple to make (not for me though). If you think that I am good at coding, then you're very much mistaken, I am just a hobbyist who likes coding and I am still in the beginner stage
         </SectionText>
-        <a href="https://youtu.be/dQw4w9WgXcQ"><Button>Learn More</Button></a>
+        <a href="#about"><Button>Learn More</Button></a>
       </LeftSection>
     </Section>
   </>

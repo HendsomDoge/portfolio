@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Languages</SectionTitle>
     <SectionText>
-      In my like a year of coding experiece, I have learnt various languages. But I suck at all of them though. The languages are as follows: 
+      In my 1 year of coding experiece, I have learnt various languages. But I suck at all of them though. The languages are as follows: 
     </SectionText>
     <List>
       <ListItem>

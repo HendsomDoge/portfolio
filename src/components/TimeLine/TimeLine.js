@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am just a regular hobbyist who likes coding and likes amogus. Theres nothing more about me.
+        I am a beginner coder who likes doing projects. I started my coding journey at 2020 with JavaScript(js). After that I learnt a bit of HTML/CSS(html/css). After that I started developing react native(jsx) projects and that is when I truly started liking coding. From javascript to react native I did paid classes but after that I started learning from youtube. I learnt nodejs and python from youtube and I learnt Aoijs/DBDjs from some documents. I am trying to develop more projects so if you have some ideas please let me know on one of my socials.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
