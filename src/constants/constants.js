@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: 'Chatty',
+    description: "A chat application which is an improvement of sogecord. This chat application has login system with google or facebook, custom rooms, removing members (this function is aviable for room creators only), attaching files and much more! Note: this app is a bit glitchy.",
+    image: '/images/chatty.JPG',
+    tags: ['FireBase', 'ReactJs', 'JavaScript'],
+    source: 'https://github.com/HendsomDoge/chatty',
+    visit: 'https://sogechat.netlify.app/',
+    id: 5,
+  },
+  {
+    title: 'Travel Advisor',
+    description: "A travel advisor app with a built in map which has almost all of the restaurants, hotels and attractions. You can search for places and even choose filters. This app also has a rating system and it also displays its leaderboard rank.",
+    image: '/images/travel.JPG',
+    tags: ['ReactJs', 'JavaScript', 'CSS'],
+    source: 'https://github.com/HendsomDoge/travelAdvisor',
+    visit: 'https://traveladviser.netlify.app/',
+    id: 4,
+  },
+  {
     title: 'SogeVid Chat App',
     description: "I have built a video chat application in which two users can communicate with each other through voice and videos. This has an id system which you can share using SogeCord (or any place where u can share things) and the user has to put the id and call the other user. This is one of my most recent projects.",
       image: '/images/sogevid.JPG',
