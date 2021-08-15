@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Chatty',
-    description: "A chat application which is an improvement of sogecord. This chat application has login system with google or facebook, custom rooms, removing members (this function is aviable for room creators only), attaching files and much more! Note: this app is a bit glitchy.",
+    description: "A chat application which is an improvement of sogecord. This chat application has login system with google, custom rooms, removing members (this function is aviable for room creators only), attaching files and much more! Note: this app is a bit glitchy.",
     image: '/images/chatty.JPG',
     tags: ['FireBase', 'ReactJs', 'JavaScript'],
     source: 'https://github.com/HendsomDoge/chatty',
