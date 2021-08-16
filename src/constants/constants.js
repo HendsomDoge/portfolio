@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: 'Chatty',
-    description: "A chat application which is an improvement of sogecord. This chat application has login system with google, custom rooms, removing members (this function is aviable for room creators only), attaching files and much more! Note: this app is a bit glitchy.",
+    title: 'SogeBook',
+    description: "A social media application which has many features such as posting, commenting on posts, liking posts, editing posts, deleting posts, searching for posts (with tags or title/description) and login features. This is by far the biggest project I ever.",
     image: '/images/chatty.JPG',
-    tags: ['FireBase', 'ReactJs', 'JavaScript'],
+    tags: ['MongoDB', 'ReactJs', 'JavaScript'],
     source: 'https://github.com/HendsomDoge/chatty',
     visit: 'https://sogechat.netlify.app/',
     id: 5,
