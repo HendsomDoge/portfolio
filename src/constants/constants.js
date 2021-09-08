@@ -1,7 +1,25 @@
 export const projects = [
   {
+    title: 'Sussy Expense Tracker',
+    description: "This is a expense tracker which keeps a track of your expenses and incomes with the help of charts. What's more is that you can also use this app through voice by simply holding down the space bar.",
+    image: '/images/sussyet.JPG',
+    tags: ['ReactJs', 'JavaScript'],
+    source: 'https://github.com/HendsomDoge/sussyexpensetracker',
+    visit: 'https://sussyexpensetracker.netlify.app/',
+    id: 5,
+  },
+  {
+    title: 'PWA Weather App',
+    description: "This is a simple weather app where you can see the temprature and the condition of a certain city. The main feature of this app is that this app can be runned offline and it can also be downloaded.",
+    image: '/images/pwa.JPG',
+    tags: ['ReactJs', 'JavaScript'],
+    source: 'https://github.com/HendsomDoge/uselessweather',
+    visit: 'https://uselessweather.netlify.app/',
+    id: 5,
+  },
+  {
     title: 'SogeBook',
-    description: "A social media application which has many features such as posting, commenting on posts, liking posts, editing posts, deleting posts, searching for posts (with tags or title/description) and login features. This is by far the biggest project I ever.",
+    description: "A social media application which has many features such as posting, commenting on posts, liking posts, editing posts, deleting posts, searching for posts (with tags or title/description) and login features. This is by far the biggest web application project I ever.",
     image: '/images/chatty.JPG',
     tags: ['MongoDB', 'ReactJs', 'JavaScript'],
     source: 'https://github.com/HendsomDoge/chatty',
@@ -19,7 +37,7 @@ export const projects = [
   },
   {
     title: 'SogeVid Chat App',
-    description: "I have built a video chat application in which two users can communicate with each other through voice and videos. This has an id system which you can share using SogeCord (or any place where u can share things) and the user has to put the id and call the other user. This is one of my most recent projects.",
+    description: "I have built a video chat application in which two users can communicate with each other through voice and videos. This has an id system which you can share using SogeCord (or any place where u can share things) and the user has to put the id and call the other user",
       image: '/images/sogevid.JPG',
       tags: ['WebRTC', 'Socket.io', 'React.js', 'Node.js'],
     source: 'https://github.com/HendsomDoge/sogevid',
@@ -37,7 +55,7 @@ export const projects = [
   },
   {
     title: 'Hendsom Bot',
-    description: "Hendsom Bot, this is a discord bot made by me which has many features such as moderation, music, level up, welcoming and much more! This bot constantly gets updates and new command and what's more is that all of the commands are completely free! If you want to invite the bot to your server then just click the \"Visit\" button below.",
+    description: "Hendsom Bot, this is a discord bot made by me which has many features such as moderation, music, level up, welcoming and much more! This bot constantly gets updates and new command and what's more is that all of the commands are completely free! If you want to invite the bot to your server then just click the \"Visit\" button below. This is by far the biggest project I ever made.",
       image: '/images/3.png',
       tags: ['JavaScript', 'Aoi.js', 'Node.js'],
     source: 'https://youtu.be/dQw4w9WgXcQ',
