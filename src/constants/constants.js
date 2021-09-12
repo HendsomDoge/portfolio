@@ -13,8 +13,8 @@ export const projects = [
     description: "This is a expense tracker which keeps a track of your expenses and incomes with the help of charts. What's more is that you can also use this app through voice by simply holding down the space bar.",
     image: '/images/sussyet.JPG',
     tags: ['ReactJs', 'JavaScript'],
-    source: 'https://github.com/HendsomDoge/sussyexpensetracker',
-    visit: 'https://sussyexpensetracker.netlify.app/',
+    source: 'https://github.com/HendsomDoge/sussywebstore',
+    visit: 'https://sussywebstore.netlify.app/',
     id: 6,
   },
   {
