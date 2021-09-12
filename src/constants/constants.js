@@ -1,21 +1,21 @@
 export const projects = [
   {
+    title: 'Sussy Web Store',
+    description: "This is a web store which does NOT actually deliver products. In, this webstore, you have a cart system and you can also do payments. I could also app other functionalities such as emailing me who purchased the order and emailing the person about order details but I needed to add my credit card for that which I'm unable to do.",
+    image: '/images/pwa.JPG',
+    tags: ['ReactJs', 'JavaScript', 'Nodejs', 'Stripe'],
+    source: 'https://github.com/HendsomDoge/uselessweather',
+    visit: 'https://uselessweather.netlify.app/',
+    id: 7,
+  },
+  {
     title: 'Sussy Expense Tracker',
     description: "This is a expense tracker which keeps a track of your expenses and incomes with the help of charts. What's more is that you can also use this app through voice by simply holding down the space bar.",
     image: '/images/sussyet.JPG',
     tags: ['ReactJs', 'JavaScript'],
     source: 'https://github.com/HendsomDoge/sussyexpensetracker',
     visit: 'https://sussyexpensetracker.netlify.app/',
-    id: 5,
-  },
-  {
-    title: 'PWA Weather App',
-    description: "This is a simple weather app where you can see the temprature and the condition of a certain city. The main feature of this app is that this app can be runned offline and it can also be downloaded.",
-    image: '/images/pwa.JPG',
-    tags: ['ReactJs', 'JavaScript'],
-    source: 'https://github.com/HendsomDoge/uselessweather',
-    visit: 'https://uselessweather.netlify.app/',
-    id: 5,
+    id: 6,
   },
   {
     title: 'SogeBook',
