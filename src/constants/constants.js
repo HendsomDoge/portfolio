@@ -2,19 +2,19 @@ export const projects = [
   {
     title: 'CryptoSus',
     description: "This is a sussy cryptocurrency tracker with information such as ost popular currencies, information on single currencies, news etc.",
-      image: '/images/3.png',
+      image: '/images/cri.JPG',
       tags: ['JavaScript', 'Nodejs', 'Reactjs', 'HTML/CSS'],
     source: 'https://youtu.be/dQw4w9WgXcQ',
-    visit: 'https://dsc.gg/hendsombot',
+    visit: 'https://cryptosus.netlify.app',
     id: 8,
   },
   {
     title: 'Sussy Image Yes',
     description: "This is an online image gallery where you can share images with your friends",
-      image: '/images/3.png',
+      image: '/images/drip.PNG',
       tags: ['JavaScript', 'Nodejs', 'Reactjs', 'HTML/CSS'],
     source: 'https://youtu.be/dQw4w9WgXcQ',
-    visit: 'https://dsc.gg/hendsombot',
+    visit: 'https://sussypicious.netlify.app/',
     id: 7,
   },
   {
