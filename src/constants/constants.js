@@ -68,7 +68,7 @@ export const projects = [
     image: '/images/chatty.JPG',
     tags: ['MongoDB', 'ReactJs', 'JavaScript'],
     source: 'https://github.com/HendsomDoge/sogebook',
-    visit: 'https://sogechat.netlify.app/',
+    visit: 'https://sogebook.netlify.app/',
     id: 4,
   },
   {

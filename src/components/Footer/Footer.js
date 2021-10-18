@@ -9,7 +9,7 @@ const Footer = () => {
     <FooterWrapper>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>I am handsome and I like amogus</Slogan>
+          <Slogan>I suck at coding.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/HendsomDoge">
