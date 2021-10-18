@@ -12,13 +12,13 @@ const Footer = () => {
           <Slogan>I suck at coding.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/HendsomDoge">
+          <SocialIcons href="https://github.com/HendsomDoge" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://reddit.com/user/hendsomdoge">
+          <SocialIcons href="https://reddit.com/user/hendsomdoge" target="_blank">
             <AiFillRedditCircle size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://twitter.com/HendsomDoge">
+          <SocialIcons href="https://twitter.com/HendsomDoge" target="_blank">
             <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>
