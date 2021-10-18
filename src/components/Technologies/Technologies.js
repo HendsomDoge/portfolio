@@ -31,10 +31,10 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <ListContainer>
-          <ListTitle>React Native</ListTitle>
+          <ListTitle>React</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            React
           </ListParagraph>
         </ListContainer>
       </ListItem>
