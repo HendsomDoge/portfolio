@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiFillCreditCard, AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillRedditCircle } from 'react-icons/ai';
+import { AiFillGithub, AiFillRedditCircle, AiFillTwitterCircle } from 'react-icons/ai';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -17,6 +17,9 @@ const Footer = () => {
           </SocialIcons>
           <SocialIcons href="https://reddit.com/user/hendsomdoge">
             <AiFillRedditCircle size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://twitter.com/HendsomDoge">
+            <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
